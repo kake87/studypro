@@ -1,0 +1,5 @@
+-- database: /home/kanat/Documents/Flutter_test/my_app/course.db
+
+-- Use the ▷ button in the top right corner to run the entire file.
+
+SELECT * FROM "courses";
