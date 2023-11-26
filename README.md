@@ -1,4 +1,4 @@
-# my_app
+# <h1>StudyPro</h1>
 
 A new Flutter project.
 
